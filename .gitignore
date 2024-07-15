@@ -60,3 +60,4 @@ private_key_base64.txt
 private_key.pem
 public_key_base64.txt
 public_key.pem
+client.http
